@@ -1,0 +1,14 @@
+{
+  "name": "pdf-flipbook-master",
+  "version": "1.0.0",
+  "description": "Pdf flipbook converter with turnjs and pdfjs libraries.",
+  "main": "pdf-flip.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
