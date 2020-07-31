@@ -4,7 +4,7 @@ Pdf flipbook converter with turnjs and pdfjs libraries.
 ## Demo
 ![alt tag](http://eray.info/demo/pdf-flipbook/ompressed.tracemonkey-pldi-09.pdf20161028171848.gif)
 
-[Demo](http://eray.info/demo/pdf-flipbook)
+[Demo](julianacm.tk)
 
 ## Usage
 
